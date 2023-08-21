@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a4838356.css",
-    "main.js": "/react-gh-pages/static/js/main.aa0783b8.js",
-    "static/js/787.9942e4c2.chunk.js": "/react-gh-pages/static/js/787.9942e4c2.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a4838356.css.map": "/react-gh-pages/static/css/main.a4838356.css.map",
-    "main.aa0783b8.js.map": "/react-gh-pages/static/js/main.aa0783b8.js.map",
-    "787.9942e4c2.chunk.js.map": "/react-gh-pages/static/js/787.9942e4c2.chunk.js.map"
+    "main.css": "/book-e-sell/static/css/main.a4838356.css",
+    "main.js": "/book-e-sell/static/js/main.68a7f24b.js",
+    "static/js/787.9942e4c2.chunk.js": "/book-e-sell/static/js/787.9942e4c2.chunk.js",
+    "static/media/logo.svg": "/book-e-sell/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/book-e-sell/index.html",
+    "main.a4838356.css.map": "/book-e-sell/static/css/main.a4838356.css.map",
+    "main.68a7f24b.js.map": "/book-e-sell/static/js/main.68a7f24b.js.map",
+    "787.9942e4c2.chunk.js.map": "/book-e-sell/static/js/787.9942e4c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4838356.css",
-    "static/js/main.aa0783b8.js"
+    "static/js/main.68a7f24b.js"
   ]
 }
