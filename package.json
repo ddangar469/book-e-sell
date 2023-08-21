@@ -2,7 +2,7 @@
   "name": "book-e-sell",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://ddangar469.github.io/book-e-sell",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@material-ui/core": "^4.12.4",
